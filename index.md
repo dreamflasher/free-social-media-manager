@@ -5,3 +5,4 @@
 layout: page
 ---
 Test
+<input />
