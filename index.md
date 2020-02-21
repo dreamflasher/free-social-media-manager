@@ -1,8 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: main
 ---
 Free (open) and privacy-aware social media manager (posting/sharing on Twitter, LinkedIn, Facebook without giving access to your accounts). Also no tracking of what you post, where and when. 
 
