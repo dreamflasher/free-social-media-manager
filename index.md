@@ -6,8 +6,8 @@
 ---
 Free (open) and privacy-aware social media manager (posting/sharing on Twitter, LinkedIn, Facebook without giving access to your accounts). Also no tracking of what you post, where and when. 
 
-<textarea id="post_message" rows="6" cols="85">This is an example post</textarea>
-<input id="post_url" type="text" size="85" value="https://dreamflasher.github.io/free-social-media-manager/" />
+<textarea id="post_message" rows="6" cols="90">This is an example post</textarea>
+<input id="post_url" type="text" size="95" value="https://dreamflasher.github.io/free-social-media-manager/" />
 
 <script>
 share_facebook = function(){
